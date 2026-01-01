@@ -112,7 +112,7 @@ streamlit run streamlit_app.py
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="Dash1.png" alt="Books Recommender" width="800">
+  <img src="dash1.png" alt="Books Recommender" width="800">
 </p>
 
 <p align="center">
